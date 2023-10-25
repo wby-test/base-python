@@ -1,0 +1,7 @@
+.DS_Store
+.vscode
+.idea
+components/notebookManager/deployments/training
+config-local/
+config-test/
+config-prod/
